@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deconstructor", "deconstructor.csproj", "{5FAD58E5-1AC7-4A2D-92EF-E4E8F1BA038E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAD58E5-1AC7-4A2D-92EF-E4E8F1BA038E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAD58E5-1AC7-4A2D-92EF-E4E8F1BA038E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAD58E5-1AC7-4A2D-92EF-E4E8F1BA038E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAD58E5-1AC7-4A2D-92EF-E4E8F1BA038E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDF6CC7-B3EE-4FBF-AC57-A779ECA1EA73}
+	EndGlobalSection
+EndGlobal
